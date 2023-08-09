@@ -4,7 +4,13 @@ Neurex is the first neural-network model to automated exception handling recomme
 # Dataset
 Google Drive: https://drive.google.com/drive/folders/13sj8A3Icz1h1v3-P49F7KoWaZ-WWQ0dV?usp=share_link
 
-* The processed dataset is in the subfolder : `./dataset/training`
+* The training dataset (processed) is in the subfolder: `./dataset/encoded`
+* The raw dataset is in the subfolder: `./dataset/raw`
 
-# Script
+# Model
+## Script
 * `training_notebook.ipynb` is the notebook for training the model in Colab.
+
+## Best Model Checkpoint
+Google Drive: https://drive.google.com/drive/folders/1KEPhSU5LtIrTKfKBxf1sBSsbkqcuDExH?usp=share_link
+
